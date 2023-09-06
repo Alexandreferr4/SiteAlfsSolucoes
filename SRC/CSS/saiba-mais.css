@@ -1,0 +1,73 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+} */
+
+.container-saiba {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* .logo {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+} */
+
+.title-saiba{
+    text-align: center;
+    font-size: 32px;
+    color: #333333;
+}
+
+.subtitle-saiba {
+    text-align: center;
+    font-size: 24px;
+    color: #666666;
+}
+
+.content-saiba {
+    margin-top: 80px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 40px auto;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.584);
+
+}
+
+.section-saiba {
+    margin-bottom: 40px;
+}
+
+.section-title-saiba {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.section-text-saiba {
+    font-size: 16px;
+    color: #666666;
+    line-height: 1.5;
+}
+
+.button-saiba {
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #0099ff;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    margin: 45px auto;
+}
+
+.section-saiba .button-saiba:hover {
+    background-color: #0066cc;
+  }
